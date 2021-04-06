@@ -1,0 +1,99 @@
+body {
+   background-image:url(imagenes/fondo.jpg);
+   background-size: cover;
+   margin: 0%;
+}
+.logo{
+    width: auto;
+    height: auto;
+    float: left;
+    padding: 0px;
+    padding-left: 2%;
+}
+.netflix{
+    width: 12%;
+}
+
+h1 {
+   font-family:sans-serif;
+}
+
+.cuadro{
+    background-color: rgba(0, 0, 0, .8);
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 10px;
+    color: #fff;
+    text-align:inherit justify;
+    margin-top: 8%;
+    margin-left: 36%;
+    margin-right: 36%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 8%;
+    font-family:sans-serif;
+
+}
+
+.colcuad{
+   color: white;
+}
+
+.pie{
+    background-color: rgba(0, 0, 0, .8);
+    height: 30%;
+    width: 100%;
+    position: absolute;
+    top: 10px;
+    color: #fff;
+    text-align: center;
+    margin-top: 55%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    font-family:sans-serif;
+}
+.informacion{
+    color: #fff;
+    text-align: right;
+    font-family:sans-serif;
+}
+.info{
+    
+ 
+}
+
+.Registrarse{
+    height: 100%;
+    width: 15px;
+}
+
+.inicio{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-radius: 5px;
+}
+
+
+
+.fb{
+    width: 20px;
+    height: 20px;
+}
+
+.suscri{
+    color: white;
+    font-size: 20px;
+}
+
